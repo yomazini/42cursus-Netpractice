@@ -837,7 +837,8 @@ This section provides a level-by-level guide with hints and explanations to help
 
 ---
 ## ✍️ Author
-- **Your Name** - Project Author
-  - 🎓 42 Intra: `your-intra-username`
-  - 🐙 GitHub: `[your-github-username](https://github.com/your-github-username)`
-  - 💼 LinkedIn: `[Connect with me](https://www.linkedin.com/in/your-linkedin-profile/)`
+- **Youssef Mazini**
+  - 🎓 42 Intra: [ymazini](https://profile.intra.42.fr/users/ymazini)
+  - 🐙 GitHub: [yomazini](https://github.com/yomazini)
+  - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/youssef-mazini/)
+ 
