@@ -18,6 +18,9 @@ This repository provides a detailed guide to fundamental networking concepts, st
 
 # Part 1: The Visual Guide
 
+ - 📄 **The Visual Playbook: Netpractice-Visual-Walkthrough** [Get it here](https://github.com/yomazini/42cursus-Netpractice/blob/main/The%20Visual%20Playbook%20Netpractice-Visual-Walkthrough.pdf)
+
+
 This section provides a high-level, visual introduction to core networking concepts. Each diagram is designed to give you a quick, intuitive understanding of the topic.
 
 ## 1.1 Network Segmentation: Flat vs. Secure Architecture
